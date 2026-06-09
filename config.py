@@ -3,7 +3,7 @@
 # Mandatory Variables
 API_ID = "27064328" # Replace with your actual Telegram API ID
 API_HASH = "7be1392c2fe5ebf4fc3228706fbfb504"  # Replace with your actual Telegram API Hash
-BOT_TOKEN = "your_bot_token_here"  # Replace with your actual Bot Token
+BOT_TOKEN = "8163613729:AAFVTB025BkCQulWWNb_WgXt4R8wZZJXqdk"  # Replace with your actual Bot Token
 OWNER_ID = "5019668523"  # Replace with your actual Owner ID
 # Database
 DATABASE_URL = "mongodb+srv://tabolo8539:0evqZDV4fC5fD17c@cluster0.cw8zxus.mongodb.net/?retryWrites=true&w=majority"  # Replace with your actual database URL
