@@ -16,7 +16,7 @@ ADMIN_USERNAME = "TonyStark75" # Replace with your admin username
 ADMIN_PASSWORD = "Tony2006" # Replace with your admin password
 
 
-SITE_SECRET = "your_secret_key" # Replace with your site secret key
+SITE_SECRET = "X9a7B2cQ4mN8zR5t" # Replace with your site secret key
 TMDB_API_KEY = "bf388abad0e6e262e3fdd564f4a91c82" # Replace with your TMDB API key
 
 # Optional Variables
